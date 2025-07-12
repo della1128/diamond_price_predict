@@ -26,7 +26,7 @@ We use:
 - Feature engineering (volume calculation, label encoding)
 - Data visualization (scatter plots, trendlines)
 - Multiple regression models
-- Model performance evaluation using MAE, MSE, RMSE, and R²
+- Model performance evaluation using MAE, MSE, and R²
 
 ---
 
