@@ -70,7 +70,7 @@ It contains over 50,000 rows and includes the following columns:
 Open the notebook in Google Colab:
 ```
 
-diamond\_price\_predictor.ipynb
+diamond_price_predictor.ipynb
 
 ````
 
