@@ -23,9 +23,8 @@ Diamonds vary in price depending on their **carat, cut, clarity, color, and phys
 
 We use:
 - Data preprocessing
-- Feature engineering (volume calculation, label encoding)
+- Feature engineering (volume calculation)
 - Data visualization (scatter plots, trendlines)
-- Multiple regression models
 - Model performance evaluation using MAE, MSE, and R²
 
 ---
@@ -44,7 +43,7 @@ The model uses the following features to predict diamond price:
 
 ## 🧠 Model and Evaluation
 
-The base model used is **Linear Regression**. You can optionally switch to `RandomForestRegressor` or `GradientBoostingRegressor` for improved performance.
+The base model used is **RandomForestRegressor**. You can optionally switch to   `GradientBoostingRegressor` for improved performance.
 
 **Evaluation Metrics (Linear Regression):**
 - ✅ Mean Absolute Error (MAE): ₹791.81
@@ -84,7 +83,7 @@ Run the cells from top to bottom. You can also try live prediction by entering:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/diamond-price-predictor.git
+git clone https://github.com/della1128/diamond-price-predictor.git
 cd diamond-price-predictor
 ````
 
